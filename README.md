@@ -21,3 +21,78 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedaasim&show_icons=true&locale=en" alt="mohammedaasim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedaasim&" alt="mohammedaasim" /></p>
+<h1 align="center">Hi 👋, I'm Aasim Mohammed</h1>
+<h3 align="center">🚀 Passionate Web & Frontend Developer from India</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammedaasim&label=Profile%20Views&color=0e75b6&style=flat" alt="mohammedaasim" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammedaasim&theme=onedark&no-frame=true&row=1" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 🔭 Currently working on **Web Development Projects**
+- 🌱 Learning **React, Advanced JavaScript & Backend Basics**
+- 💡 Interested in **Frontend, UI/UX & Modern Web Apps**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python**
+- 📫 Reach me at **aasimmohammad333@gmail.com**
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+<a href="https://github.com/mohammedaasim" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://linkedin.com" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools (Web Dev Focus)
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+- 🌐 **Portfolio Website** – HTML, CSS, JavaScript  
+- 🛒 **Mini E-Commerce UI** – Responsive Design  
+- 📊 **Dashboard UI** – Charts & Layouts  
+
+_(More coming soon 🚧)_
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mohammedaasim&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedaasim&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedaasim&theme=tokyonight" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+💻 *I love turning ideas into responsive websites and clean UI.*
